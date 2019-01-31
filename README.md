@@ -5,8 +5,8 @@ iOS12 jailbreak 越狱进度
 
 Ian Beer (@i41nbeer) has just released three bugs for iOS 12.0-12.1.2 - 
 
-iOS/MacOS kernel heap overflow in PF_KEY due to lack of bounds checking when retrieving statistics
+1、iOS/MacOS kernel heap overflow in PF_KEY due to lack of bounds checking when retrieving statistics
 
-XNU vm_map_copy optimization which requires atomicity
+2、XNU vm_map_copy optimization which requires atomicity
 
-Arbitrary mach port name deallocation in XPC
+3、Arbitrary mach port name deallocation in XPC
